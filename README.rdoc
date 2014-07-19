@@ -1,0 +1,2 @@
+= Prime Challenge
+Type `ruby challenge_runner.rb` and watch the primes roll.
